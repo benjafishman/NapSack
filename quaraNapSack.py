@@ -5,6 +5,10 @@
 ###############################
 # Takes STDIN of value,weight pairs and outputs the optimal subset of pairs
 # constrained by a given value
+# 
+# To Test: clone project then in your local terminal 
+# run :$ python quaraNapSack.py input1.txt
+# or run :$ python quaraNapSack.py input2.txt
 ###############################
 
 import fileinput

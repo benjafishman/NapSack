@@ -1,4 +1,6 @@
 NapSack
 =======
 
-My version of the dynamic knapsack problem
+My version of the knapsack problem pseudo-solved with the dynamic programming solution.
+
+
